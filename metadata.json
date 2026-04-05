@@ -1,0 +1,5 @@
+{
+  "name": "Pro Todo & Product Manager",
+  "description": "A professional React application featuring Redux, React Query, and Axios interceptors for authentication and product management.",
+  "requestFramePermissions": []
+}
